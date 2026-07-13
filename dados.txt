@@ -1,2 +1,7 @@
 mensagem 01
 mensagem 02
+ mensagem 03
+ estou fazendo uma alteração que tem um bug
+ alterando arquivo
+ linha incluida na feature01
+ 
